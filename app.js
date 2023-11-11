@@ -9,9 +9,9 @@ console.log(
     chalk.yellowBright("skyskraperen ") +
     chalk.blueBright("unntatt ") +
     chalk.magentaBright("Inger, ") +
-    chalk.cyanBright("hun ")
-    chalk.whiteBright("trodde ")
-    chalk.black("hun ")
-    chalk.blue("hadde ")
+    chalk.cyanBright("hun ") +
+    chalk.whiteBright("trodde ") +
+    chalk.black("hun ") +
+    chalk.blue("hadde ") +
     chalk.red("vinger.")
 );
